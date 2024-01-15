@@ -208,3 +208,29 @@ lec - 7 -6 - 2023
 
 
 =================================================================================================
+
+
+
+
+.                                 -->    day 15   (15 - 1 - 2024)
+
+
+lec - 8 -6 - 2023
+
+
+
+                    SQL 
+           =========
+                    datatypes
+                    character datatypes
+                        NOn-unicode datatypes
+                            -char
+                            -varchar
+                        Unicode datatypes
+                            -Nchar datatypes
+                            -Nvarchar datatypes
+                    Long datatypes
+
+                    date datatypes        
+
+==============================================================================================
