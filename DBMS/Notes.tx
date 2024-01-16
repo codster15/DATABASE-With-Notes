@@ -234,3 +234,33 @@ lec - 8 -6 - 2023
                     date datatypes        
 
 ==============================================================================================
+
+
+
+.                                 -->    day 16   (16 - 1 - 2024)
+
+
+lec - 9 -6 - 2023
+
+
+    SQL
+    ===
+
+        all datatypes compeleted 
+
+
+     1 DDL (data defination language)
+        Create 
+        Alter
+            -alter modify = to change datatypes and datatype of column
+            -alter add    = to add new column to the table 
+            -alter rename = to change a column name in a table
+            -alter drop   = to drop existing column from the table
+
+
+        rename 
+
+
+
+==================================================================================================    
+
