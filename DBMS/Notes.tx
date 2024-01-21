@@ -306,8 +306,6 @@ lec - 13 -6 - 2023
 
 
 
-.                                        D A T A B A S E
-.                                      -------------------
 
 
 .       lec - 16 -6 2023
@@ -319,6 +317,28 @@ lec - 13 -6 - 2023
          difference btw delete and truncate
          DQL
          alias Names
+
+
+
+=======================================================================================================
+
+
+   .                                 -->    day 21   (21 - 1 - 2024)
+
+
+
+.       lec - 17 -6 2023
+
+
+
+    SQL
+    ===
+
+    pagesize
+    line
+    concatenation
+    district keyword
+
 
 
 
